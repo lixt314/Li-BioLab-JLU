@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Xiangtao Li"
 description              : &description "Professor, Jilin University"
 url                      : "https://lixt314.github.io"
-baseurl                  : "/BDCI.github.io"
+baseurl                  : "/Li-BioLab-JLU"
 repository               : "https://lixt314.github.io/Li-BioLab-JLU/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
