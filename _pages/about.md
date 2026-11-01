@@ -49,7 +49,7 @@ Prof. Li is always looking for highly motivated Master’s and Ph.D. students to
 
 ## 招生名额
 
-* **博士生**：目前仅剩 **1 个名额**
+* **博士生**：名额已满
 * **硕士生**：仍有 **推免名额**
 
 ## 有意申请的同学请将以下材料发送至邮箱：
