@@ -13,7 +13,7 @@ name                     : &name "Xiangtao Li"
 description              : &description "Professor, Jilin University"
 url                      : "https://lixt314.github.io"
 baseurl                  : "/BDCI.github.io"
-repository               : "https://lixt314.github.io/BDCI.github.io"
+repository               : "https://lixt314.github.io/Li-BioLab-JLU/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
